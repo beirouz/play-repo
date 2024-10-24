@@ -1,2 +1,2 @@
 # play-repo
-recap repo
+This is a repo just for practice working with github
